@@ -15,13 +15,18 @@ Below are the illustrations of the different activities that factor into the tot
 
 ![structure](./image/structure.png)
 
-- File Content:
-  - `DSCC202-402 Forecasting Flight Delay Final Project.dbc` - Project Description
-  - `Bronze_Silver_EDA.dbc` - EDA process for bronze and silver tables
-  - `Silver_ETL.dbc` - ETL process to create silver tables
-  - `Silver_ETL_STREAMING.dbc` - ETL Streaming process to create silver tables
+- Repository Structure:
+  - `DBC Archive` - Folder contains .dbc files of the project
+  - `ML Flow` - Folder contains the results of the ML Flow Experiments
+  - `DSCC202-402 Forecasting Flight Delay Final Project.html` - Project Description
+  - `1_EDA.html` - EDA process of the project
+  - `2_ETL.html` - ETL process of the project
+  - `3_ETL_Streaming.html` - ETL Streaming process
+  - `Modeling*.html` - Modeling process
+  - `7_Monitoring.html` - Monitoring process of the application
+  - `8_Application.html` - The final application
 
-## III. Setup
+## III. Installation
 
 1. Create a [Databricks](https://databricks.com/) account
 2. Download the project and import it into the Databricks notebook
