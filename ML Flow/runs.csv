@@ -1,0 +1,22 @@
+Run ID,Name,Source Type,Source Name,User,Status,alpha,mse
+3d24d4469b6b4877a0c5137c2f6500e8,OLS Regression,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Modeling1,christopher_moore@urmc.rochester.edu,FINISHED,,1452.4192971189707
+6d15c9a6de764343b82de7972941513e,OLS Regression,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Modeling1,christopher_moore@urmc.rochester.edu,FINISHED,,146.75082322196732
+f272c2d8cf79468e80aa39b8d33e10dc,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Modeling1,christopher_moore@urmc.rochester.edu,FINISHED,0.5,146.54972127561555
+a02008a10c5742d9b59c0cd88f8e9d69,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Modeling1,christopher_moore@urmc.rochester.edu,FINISHED,0.5,146.54972127561555
+3a74f44ed83741e4bd8d426b6288c88c,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FINISHED,0.2,146.54972123412503
+e80a0d9a23e041a885730202f70a01d6,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FINISHED,0.5,146.54972127561555
+245887cb35d14d9e9244354aa3d1f5c7,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FINISHED,0.5,146.75084818668617
+622112faba0b4b1cb80426da168c2abd,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,RUNNING,,
+aa670dde9b6e47b68e7eb450ae56fe85,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+e75fc7b9bbc04107b401fefb69fdc4a5,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+d3ab643c755c41a99007812aceb8baeb,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+80ccfae2febe44c187dfdafb50c1c0db,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+7ee80a764ff741c9b6fcf71936ecef92,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+c365be7c7b0b42429b99d3ac99086267,Ridge Regression 1,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+901c057577dc45caa5cd149358c75dc3,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,RUNNING,,
+2ac282bd651e437e815ca87ad93651cd,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+fa87b99e9ace44849dc0e915207513cc,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+b86baf59623442e3bb52c7ba17d8a6f0,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,RUNNING,,
+79fc9515725f4b6d90ceca831d415859,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+64a5bfb33abe476f9dcbaf399f5db9d4,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,FAILED,,
+255e4470d6d94a3eb82204fbe806ebc2,Basic RF Experiment,NOTEBOOK,/Users/hle7@u.rochester.edu/flight_delay (1)/Model Runs,christopher_moore@urmc.rochester.edu,RUNNING,,
